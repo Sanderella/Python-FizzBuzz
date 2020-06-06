@@ -9,9 +9,7 @@ while(count<=100):
         print("Fizz")
     elif count % 5 == 0:
         print("Buzz")
-
     else:
         print(count)
 
     count=count+1
-
